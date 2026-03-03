@@ -1,5 +1,5 @@
 
-                                                           🧠 Descripción
+                                              🧠 Descripción
         
 La aplicación permite:
 
@@ -42,7 +42,7 @@ Persistencia de datos en base de datos
 
 Capacidad de consumir datos desde una API externa y mapear JSON a objetos Java.
 
-                                                        📥 Requisitos previos
+                                        📥 Requisitos previos
 
 Antes de ejecutar el proyecto necesitás:
 
@@ -51,7 +51,7 @@ Antes de ejecutar el proyecto necesitás:
 ✔ Crear una base de datos llamada, por ejemplo, literatura
 ✔ Maven o IDE que maneje proyectos Maven
 
-                                                            💡 Instalación
+                                            💡 Instalación
 
 Cloná el repositorio:
 
@@ -84,7 +84,7 @@ POST	/api/libros	Guarda libro (usando API externa)
 
 ⚠ Estos son ejemplos típicos de rutas en este tipo de proyecto. Ajustá según tu código real.
 
-                                                      🧩 Flujo de uso
+                                          🧩 Flujo de uso
  
 Registrar libro por título: Se consume la API externa (p. ej., Gutendex).
 
@@ -94,22 +94,22 @@ Consultar / Listar: Se exponen vía endpoints REST.
 
 Filtros: Se aplican filtros por idioma o año.
 
-                                                             🧪 Tests
+                                               🧪 Tests
 
 Si tu proyecto incluye tests unitarios o de integración, listalos aquí.
 
-                                                       📌 Buenas prácticas
+                                         📌 Buenas prácticas
  
 ✔ Mapeo de JSON a objetos con Jackson
 ✔ Uso de DTO para separar entidad y transporte
 ✔ Arquitectura en capas (Controller → Service → Repository)
 ✔ Manejo de errores y validaciones REST
 
-                                                              👨‍💻 Autor
+                                                 👨‍💻 Autor
 
 Carlos Méndez
 Desarrollador Back End en formación – Parte del proyecto Oracle NEXT Education + Alura Latam.
 
-                                                             📝 Licencia
+                                                📝 Licencia
 
 Este proyecto es para fines de práctica y aprendizaje.
