@@ -110,6 +110,6 @@ Si tu proyecto incluye tests unitarios o de integración, listalos aquí.
 Carlos Méndez
 Desarrollador Back End en formación – Parte del proyecto Oracle NEXT Education + Alura Latam.
 
-                                                                         📝 Licencia
+                                                             📝 Licencia
 
 Este proyecto es para fines de práctica y aprendizaje.
